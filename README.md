@@ -1,6 +1,7 @@
 # マスク画像作成アプリ
 マスク画像作成のためのお絵かきアプリです。  
 React.jsとFirebaseHostingを使いました〜。
+<img src='./demo.jpeg'>
 
 ## Usage  
 1. [ここ](https://mask-editor.web.app/)にアクセス
